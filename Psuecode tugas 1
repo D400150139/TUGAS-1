@@ -1,0 +1,6 @@
+Variable a,b,c
+Diskriminan b*b-4*a*c/2*a
+if Diskriminan <0 akar imajiner
+If Diskriminan =0 x1= -b/2*a x2= x1
+If Diskriminan >0 x1= (-b+sqrt(b*b-4*a*c))/2*a x2= (-b-sqrt(b*b-4a*c/2*a))
+print( x1 , x2 
